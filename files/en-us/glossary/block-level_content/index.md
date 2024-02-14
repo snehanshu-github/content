@@ -29,7 +29,7 @@ In this example, two paragraph ({{HTMLElement("p")}}) elements are put in a {{HT
 </div>
 ```
 
-The paragraph({{HTMLElement("p")}}) elements are block-level by default. That is why they are displayed in block layout:
+The paragraph({{HTMLElement("p")}}) elements are block-level by default. That is why they are displayed in block layou:
 
 ```css hidden
 p {
